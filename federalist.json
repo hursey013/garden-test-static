@@ -1,0 +1,9 @@
+{
+  "excludePaths": [
+    "/some-exact/file.yml",
+    "*/all-files-with-this-name.txt"
+  ],
+  "includePaths": [
+    "/.some-dot-file"
+  ]
+}
